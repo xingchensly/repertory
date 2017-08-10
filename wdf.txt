@@ -4,4 +4,8 @@ master  sdf
 slybranchone    ce fen zhi 
 slybranchone
 slybranchone   master
+<<<<<<< HEAD
 >>>>>>> slybranchone
+=======
+slybranchone  ssssssssssssssss
+>>>>>>> 228e2aa83e478ea21ba48abbf69dbab7e5655c61
